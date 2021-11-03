@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gasilvan
-- 👀 I’m interested in computer, programming, english
-- 🌱 I’m currently learning Python, HTML, CSS and Javascript
+- 👋 Hola, Soy Gloria Silva
+- 👀 Me interesa la informática, la programación y la comunicación audiovisual, 
+- 🌱 Actualmente estoy aprendiendo Desarrollo Full Stack Javascript.
 
 <!---
 gasilvan/gasilvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
